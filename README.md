@@ -16,3 +16,6 @@ This version is based on the original version and ncorr_2D_matlab_2025_fix. The 
 If you use this software in your research, please cite the following paper:
 
 J Blaber, B Adair, A Antoniou. Ncorr: open-source 2D digital image correlation matlab software. Experimental Mechanics 55 (6), 1105-1122, 2015.
+
+#
+Ncorr Chinese version translated by : Github-Aspartame7701 Bilibili-渌影月
