@@ -6,11 +6,11 @@ Ncorr 是一款开源的二维数字图像相关 MATLAB 程序。它拥有简洁
 
 Ncorr is an open source 2D digital image correlation MATLAB program. It has an accessible and intuitive GUI, uses many novel 2D DIC algorithms, is wholly contained within the MATLAB environment, and contains plotting tools for figure creation. The compute intensive algorithms are optimized through the use of C++/MEX, while the GUI is written mostly in m-code. The idea is to give the users an easy to use, efficient, and flexible DIC program.
 
-This version is based on the original version and Hoping to fix opengl issue with 2025 version of MATLAB. The interface has been translated into simplified Chinese, while the other functions have not been modified. Compatible with MATLAB R2025b.
+This version is based on the original version and ncorr_2D_matlab_2025_fix. The interface has been translated into simplified Chinese, while the other functions have not been modified. Compatible with MATLAB R2025b.
 
 * **Original Repository 原版链接:** [https://github.com/justinblaber/ncorr_2D_matlab](https://github.com/justinblaber/ncorr_2D_matlab)
 * **Project Website 项目网站:** [https://www.ncorr.com](https://www.ncorr.com)
-* ncorr_2D_matlab_2025_fix链接 https://github.com/jascott4427/ncorr_2D_matlab_2025_fix
+* ncorr_2D_matlab_2025_fix链接: https://github.com/jascott4427/ncorr_2D_matlab_2025_fix
 ## Research Citation
 
 If you use this software in your research, please cite the following paper:
